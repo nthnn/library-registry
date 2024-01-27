@@ -1,3 +1,6 @@
+https://github.com/FabioNMI/fancyTerminal
+https://github.com/kaiaai/LDS
+https://github.com/aniket-hpp/TFT_eSPI_Scroll
 https://github.com/eloquentarduino/eloquent_esp32cam_remote
 https://github.com/N4rcissist/OtaHelper
 https://github.com/nihinihikun/E220-900T22S-JP_Arduino
@@ -186,6 +189,7 @@ https://github.com/nthnn/TCS3200
 https://github.com/nthnn/Anomalia
 https://github.com/nthnn/Navigador
 https://github.com/nthnn/PH4502C-Sensor
+https://github.com/nthnn/diwa
 https://github.com/dhrubasaha08/SimpleUltrasonic
 https://github.com/jmerc77/Fast4ier
 https://github.com/AlfredoSystems/Alfredo-NoU2
@@ -541,6 +545,7 @@ https://github.com/Chris--A/PGMWrap
 https://github.com/Chris--A/PrintEx
 https://github.com/Chris--A/SmallSetup
 https://github.com/ChrisDinhNZ/SMoS-cpp
+https://github.com/chrisneukam/MidiDmxBridge
 https://github.com/ChuckBell/MySQL_Connector_Arduino
 https://github.com/CieNTi/arduino-IoTesla-client
 https://github.com/CircuitMess/CircuitMess-Ringo
@@ -1797,6 +1802,7 @@ https://github.com/RobTillaart/DS1821
 https://github.com/RobTillaart/DS18B20
 https://github.com/RobTillaart/DS18B20_INT
 https://github.com/RobTillaart/DS2401
+https://github.com/RobTillaart/DS2438
 https://github.com/RobTillaart/DS28CM00
 https://github.com/RobTillaart/DistanceTable
 https://github.com/RobTillaart/FLE
@@ -3422,6 +3428,7 @@ https://github.com/danidask/MatrizLed
 https://github.com/daniel-centore/arduino-tone-library
 https://github.com/danilopinotti/Battery18650Stats
 https://github.com/danja/TM1638lite
+https://github.com/danmowehhuk/AD75019
 https://github.com/danny270793/ArduinoShiftRegister
 https://github.com/dantler/GroveEncoder
 https://github.com/dantler/LircRemote101
@@ -6318,6 +6325,7 @@ https://github.com/bonezegei/Bonezegei_DHT11
 https://github.com/bonezegei/Bonezegei_DHT22
 https://github.com/bonezegei/Bonezegei_PCF8574
 https://github.com/bonezegei/Bonezegei_LCD1602_I2C
+https://github.com/bonezegei/Bonezegei_DS3231
 https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vegaiot_busio
 https://gitlab.com/riscv-vega/vega-sensor-libraries/sensors/vega_bmi088
 https://github.com/odriverobotics/ODriveArduino
@@ -6595,3 +6603,21 @@ https://github.com/AlfredoSystems/Alfredo_NoU3
 https://github.com/AlfredoSystems/AlfredoCRSF
 https://github.com/AlfredoSystems/SimpleMelt
 https://github.com/BenCestMoiQuoi/INSARIANNE
+https://github.com/dndg/Finder7M
+https://github.com/dndg/Finder6M
+https://github.com/mathieucarbou/MycilaLogger
+https://github.com/mathieucarbou/MycilaConfig
+https://github.com/xreef/EByte_LoRa_E70_Series_Library
+https://github.com/mathieucarbou/MycilaJSY
+https://github.com/mathieucarbou/ESPAsyncWebServer
+https://github.com/mathieucarbou/MycilaESPConnect
+https://github.com/mathieucarbou/MycilaRelay
+https://github.com/ReneRichterDE/ButtonMatrix
+https://github.com/mjbots/moteus-arduino
+https://github.com/Xinyuan-LilyGO/LilyGo-T-RGB
+https://gitlab.com/riscv-vega/vega-sensor-libraries/communication/vega_arduinoble
+https://github.com/mathieucarbou/MycilaTaskMonitor
+https://github.com/SALITIBI/WMS7202DigitalPotentiometer
+https://github.com/mathieucarbou/MycilaNTP
+https://github.com/mathieucarbou/MycilaHADiscovery
+https://github.com/holgerlembke/st7567sfGK
